@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+
+# build output and Astro-generated files
+dist/
+.astro/
+
+# local environment variables
+.env
+.env.*
+!.env.example
+
+# operating system files
+.DS_Store
